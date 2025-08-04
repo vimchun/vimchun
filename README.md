@@ -17,4 +17,4 @@ Here is my main project: 🔗 **[Job Market in France](https://github.com/vimchu
 
 <br>
 
-📫 To reach me : [Email](mailto:mhoang86@gmail.com), [LinkedIn](https://www.linkedin.com/in/minh‑ha‑hoang/)
+📫 To reach me : [Email](mailto:mhoang86@gmail.com), [LinkedIn](https://www.linkedin.com/in/minh-ha-hoang/)
